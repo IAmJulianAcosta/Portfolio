@@ -15,3 +15,6 @@ Used for generating user interface
 
 ## SASS
 Styling
+
+# License
+[MIT License](http://opensource.org/licenses/MIT)
